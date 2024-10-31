@@ -1,0 +1,15 @@
+.kuality-form {
+    display: block;
+    margin: 10px auto;
+    width: 98%;
+}
+
+.kuality-form input {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.kuality-form textarea {
+    margin-bottom: 20px;
+}
+
